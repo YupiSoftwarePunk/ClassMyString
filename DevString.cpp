@@ -77,6 +77,8 @@ void DevString::Getline()
 	this->word[this->size] = '\0';
 }
 
+
+
 /*
 DevString one("Hello");
 DevString two("World");

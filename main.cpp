@@ -2,9 +2,6 @@
 #include <Windows.h>
 
 
-
-
-
 int main()
 {
 	SetConsoleCP(1251);
@@ -32,7 +29,7 @@ int main()
 
 
 /*
-BlackBoyy one("Hello");
-BlackBoyy two("World");
-BlackBoyy three = one + two;
+DevString one("Hello");
+DevString two("World");
+DevString three = one + two;
 */
